@@ -1,0 +1,1 @@
+these instruments repeat octaves from c2-b2 up to c9-b9, with each higher octave having higher cutoff. to retune the instrument to another key center, you can offset the note mapping.
