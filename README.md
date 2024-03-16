@@ -17,7 +17,9 @@ be tuned to middle C.
 instruments marked "(stereo)" will only be usable in
 trackers/players that incorporate modplug's IT format
 extensions. instruments marked "(mono)" are monoaural
-versions of said instruments and are legacy-compatible.
+versions of said instruments for older versions, and the
+"_LEGACY" folder contains uncompressed mono ITIs for
+much older versions of modplug and impulse tracker.
 
 =========================================================
 
